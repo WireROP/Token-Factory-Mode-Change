@@ -1,4 +1,5 @@
-## Token Factory
+## Token Factory 
+## Mode _Change
 
 The Token Factory allows simple creation of a standard ERC20 token on Ethereum. It requires an injected web3 (Mist or Metamask) to function. It also has uPort support.
 
